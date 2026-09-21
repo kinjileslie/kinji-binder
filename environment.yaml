@@ -1,0 +1,12 @@
+name: binder-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - numpy
+  - pandas
+  - r-base
+  - r-essentials
+  - r-irkernel
+  - r-ggplot2
