@@ -1,2 +1,2 @@
 # kinji-binder
-Kinji's Binder for Jupyter notebooks
+Kinji's Binder example for Jupyter notebooks
